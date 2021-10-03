@@ -1,0 +1,1 @@
+az vm extension set --name customscript --resource-group DevOps_Kochi --vm-name Rahul02-Linux --publisher Microsoft.Azure.Extensions --settings customscript.json
